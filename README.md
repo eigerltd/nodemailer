@@ -1,3 +1,6 @@
+# Fork of git@github.com:nodemailer/nodemailer.git@7.0.10
+added MailComposer to exports
+
 # Nodemailer
 
 [![Nodemailer](https://raw.githubusercontent.com/nodemailer/nodemailer/master/assets/nm_logo_200x136.png)](https://nodemailer.com/about/)
